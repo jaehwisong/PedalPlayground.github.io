@@ -183,6 +183,27 @@
 	},
 	{
 		"Brand": "A3 Stompbox",
+		"Name": "Custom Volume Pedal (Standard)",
+		"Width": 3.66,
+		"Height": 9.84,
+		"Image": "a3-volume-black.png"
+	},
+		{
+		"Brand": "A3 Stompbox",
+		"Name": "Custom Volume Pedal (Medium)",
+		"Width": 3.66,
+		"Height": 8.90,
+		"Image": "a3-volume-black.png"
+	},
+		{
+		"Brand": "A3 Stompbox",
+		"Name": "Custom Volume Pedal (Mini)",
+		"Width": 3.22,
+		"Height": 7.67,
+		"Image": "a3-volume-black.png"
+	},
+	{
+		"Brand": "A3 Stompbox",
 		"Name": "Groovim",
 		"Width": 2.48,
 		"Height": 4.74,
